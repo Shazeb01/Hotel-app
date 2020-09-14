@@ -1,4 +1,4 @@
-import React, {Component, useLayoutEffect} from 'react';
+import React, {Component} from 'react';
 import './Search.css';
 
 const lurl = "https://developerfunnel.herokuapp.com/location"
